@@ -67,7 +67,7 @@
  - [x] Django Tanents
  - [ ] Implement ML model with Django
  - [ ] AWS S3
- - [ ] Throttling
+ - [x] Throttling
  - [ ] Versioning
  - [ ] PostgreSQL (LEARNING)
  - [ ] MongoDB (LEARNING)
@@ -118,9 +118,9 @@
     - [x] Chapter 10 : Extending your shop
     - [ ] Chapter 11 : Adding Internationalization to your shop
     - [ ] Chapter 12 : Building an E-Learning platform 
-    - [ ] Chapter 13 : Creating a Content management system
+    - [x] Chapter 13 : Creating a Content management system
     - [ ] Chapter 14 : Rendering and Caching content 
-    - [ ] Chapter 15 : Building an API
+    - [x] Chapter 15 : Building an API
     - [x] Chapter 16 : Building a chat server
     - [ ] Chapter 17 : Going Live
 3. **Django for Professionals**
