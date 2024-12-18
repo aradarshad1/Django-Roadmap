@@ -67,6 +67,7 @@
  - [x] Django Tanents
  - [ ] Implement ML model with Django
  - [ ] AWS S3
+ - [ ] FCM (Firebase Cloud Messaging)
  - [x] Throttling
  - [ ] Versioning
  - [ ] PostgreSQL (LEARNING)
