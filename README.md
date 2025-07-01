@@ -79,19 +79,22 @@
     - [x] [Part two ↗](https://codewithmosh.com/p/the-ultimate-django-part2)
     - [x] [Part three ↗](https://codewithmosh.com/p/the-ultimate-django-part3)
 2. **Django Core**- [Django Core ↗](https://www.udemy.com/course/django-core/)
-3. **Build REST APIs with Django REST Framework and Python** - [Build REST APIs with Django REST Framework and Python ↗](https://www.udemy.com/course/django-rest-framework/)
-4. **Build a Backend REST API with Python & Django - Advanced** - [Build a Backend REST API with Python & Django - Advanced ↗](https://www.udemy.com/course/django-python-advanced/)
-5. **Django Celery Mastery: Python Asynchronous Task Processing** - [Django Celery Mastery: Python Asynchronous Task Processing ↗](https://www.udemy.com/course/django-celery-mastery/)
-6. **Fullstack Python & Django** - [Fullstack Python & Django ↗](https://www.udemy.com/course/fullstack-python-django-arabic/)
-7. **المرجع الشامل لبناء وبرمجه المواقع ببايثون (Python+Django)** - [المرجع الشامل لبناء وبرمجه المواقع ببايثون (Python+Django) ↗](https://www.udemy.com/course/pythondjango-arabic/)
+3. **Django Tutorial** - [Learn Django as your first Framework ↗](https://django-tutorial.dev)
+4. **Build REST APIs with Django REST Framework and Python** - [Build REST APIs with Django REST Framework and Python ↗](https://www.udemy.com/course/django-rest-framework/)
+5. **Build a Backend REST API with Python & Django - Advanced** - [Build a Backend REST API with Python & Django - Advanced ↗](https://www.udemy.com/course/django-python-advanced/)
+6. **Django Celery Mastery: Python Asynchronous Task Processing** - [Django Celery Mastery: Python Asynchronous Task Processing ↗](https://www.udemy.com/course/django-celery-mastery/)
+7. **Fullstack Python & Django** - [Fullstack Python & Django ↗](https://www.udemy.com/course/fullstack-python-django-arabic/)
 8. **المرجع الشامل لبناء وبرمجه المواقع ببايثون (Python+Django)** - [المرجع الشامل لبناء وبرمجه المواقع ببايثون (Python+Django) ↗](https://www.udemy.com/course/pythondjango-arabic/)
-9. **Full Stack - React Django DRF Channels Project - djChat** - [Full Stack - React Django DRF Channels Project - djChat ↗](https://www.udemy.com/course/full-stack-react-django-drf-channels-project-djchat/)
-10. **Django DRF Project: eCommerce RESTful API** - [Django DRF Project: eCommerce RESTful API ↗](https://www.udemy.com/course/django-drf-project-ecommerce/)
+9. **المرجع الشامل لبناء وبرمجه المواقع ببايثون (Python+Django)** - [المرجع الشامل لبناء وبرمجه المواقع ببايثون (Python+Django) ↗](https://www.udemy.com/course/pythondjango-arabic/)
+10. **Full Stack - React Django DRF Channels Project - djChat** - [Full Stack - React Django DRF Channels Project - djChat ↗](https://www.udemy.com/course/full-stack-react-django-drf-channels-project-djchat/)
+11. **Django DRF Project: eCommerce RESTful API** - [Django DRF Project: eCommerce RESTful API ↗](https://www.udemy.com/course/django-drf-project-ecommerce/)
+
 
 
 ## Websites 
 - [colorlib.com ↗](https://colorlib.com/) -> for templates 
 - [mockaroo.com ↗](https://mockaroo.com/) -> random data generator
+- [Django-tutorial.dev ↗](https://django-tutorial.dev) -> Learn Django Concepts 
 
 ## Books
 1. **Django for APIs**
